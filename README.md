@@ -1,4 +1,4 @@
-# ReadMe# 👋 Hi, I'm Srujal
+👋 Hi, I'm Srujal
 
 I'm a Computer Science student from Maharashtra, India. I love building things with code — from websites and apps to automation scripts and AI tools.
 
